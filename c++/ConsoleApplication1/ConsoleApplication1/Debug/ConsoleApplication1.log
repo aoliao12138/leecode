@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\leecode\c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+d:\leecode\c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+d:\leecode\c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> D:\leecode\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe

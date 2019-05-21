@@ -1,0 +1,3 @@
+﻿  Add2.cpp
+d:\leecode\c++\add2\add2\add2.cpp(35): warning C4172: 返回局部变量或临时变量的地址: ans
+  Add2.vcxproj -> D:\leecode\c++\Add2\Debug\Add2.exe
